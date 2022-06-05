@@ -10,3 +10,5 @@
 | May 31                | Intro to Spring        | https://ironhack.zoom.us/rec/share/1E-SryCb18l0sCXKDlM2QOPIYe1rJeCeITJxDwgE4_8ib0edkAm-dN2c0jKnt2xq.SRIMYEOiqXS-cDMh |
 | June 1st              | Spring                 | https://ironhack.zoom.us/rec/share/nZvDqXo_VxJLVkIpk9qiiODK_d2y2Q6Pj9Um0sEQsd3Ooe1EwQS4XJa5s_PeUmhV.DDIURZM1opQVeLJn |
 | June 2nd              | Complex Relationshiips | https://ironhack.zoom.us/rec/share/cPfVGwEUuT8BPDlQpFk914eoXQqHJPwLy0WmVCBF37i1U-KgjyiZbDlmz0MuvLt7.cVyBBTjQxGPdzQxS |
+
+| June 3rd              | Relationship review | https://ironhack.zoom.us/rec/share/1WTXGFz2vKWwoMlH5yQPnYp2Uf3Z3eXaalu50dy1vR3vu-uLKeb2REJooXv3BM1E.qQ31qbFtyuOcVBES |
