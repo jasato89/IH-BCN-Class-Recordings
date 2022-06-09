@@ -13,4 +13,5 @@
 | June 3rd              | Relationship review                | https://ironhack.zoom.us/rec/share/1WTXGFz2vKWwoMlH5yQPnYp2Uf3Z3eXaalu50dy1vR3vu-uLKeb2REJooXv3BM1E.qQ31qbFtyuOcVBES |
 | June 6th              | Spring Controller                  | https://ironhack.zoom.us/rec/share/kbgZL4XR2RzPFkP87k_VGEpD9p7RFEgKtWVYt_b2uKYLTEME0UVNVyMG0dlxbA6V.NUHQ092EueIYSj03 |
 | June 7th              | Spring POST, PUT, PATCH and DELETE | https://ironhack.zoom.us/rec/share/jKQ3Lr6GJJRT3AXwLLEnd7aCQaw_bqMyasNYiVv8m3bcicDRjnKsYHIkkVS6dowL.HaAcPmZu56SkzhHG |
+| June 8th              | Error handling and MockMVC Testing | https://ironhack.zoom.us/rec/share/SQwUhjS7lFL1NIJOMJiAx2xEhTAHoMMcgJgOfqgRdJJiic8Vyt1QgrfEAfpVAgjU.VYF6E29OeWWDEW6b |
 
