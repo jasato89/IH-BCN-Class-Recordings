@@ -17,3 +17,5 @@
 | June 9th              | Spring Controller Review           | https://ironhack.zoom.us/rec/share/NKpSsEmdf3ozX40HSGok1jBABKSaN3Spporria08g7OOvgE-ocAJjvTapy5XekPp.L_oeGUOGz_IjSKda |
 |Jun 13|Security|https://ironhack.zoom.us/rec/share/Kcag263RR0JwEc7hkksc3A712fiDBDSjDkSXBkvaGqIyGT8DoFoYjWCCBDn3aysV.rdsicG5QEvr9Cids|
 |June 20|Intro to Angular|https://ironhack.zoom.us/rec/share/zbtv8gMQKlzEkAzskIFakS9O3FJZ68OSmKrohiEgsuhU5iX1RH3ANdQHuMt2k8c.jP8y7gj7NiW5EKwQ|
+|June 21|Angular|https://ironhack.zoom.us/rec/share/-rAr88iyf0v23d24Mn6DEes-a_T6fVSzQgcBGRj7S5JvEHV_huCi_XAYpAVQFtgU.LocohguP2Fn7nUVl|
+|June 22|NgClass & NgFor|https://ironhack.zoom.us/rec/share/eGRC6SO4jQ_P8HOHOwudKbGRqly6qXwfODfTUM6dZs1L-UxD9SOqRSnq9sqDSsy0.KQyAm9xF847Sr_kL|
