@@ -19,3 +19,5 @@
 |June 20|Intro to Angular|https://ironhack.zoom.us/rec/share/zbtv8gMQKlzEkAzskIFakS9O3FJZ68OSmKrohiEgsuhU5iX1RH3ANdQHuMt2k8c.jP8y7gj7NiW5EKwQ|
 |June 21|Angular|https://ironhack.zoom.us/rec/share/-rAr88iyf0v23d24Mn6DEes-a_T6fVSzQgcBGRj7S5JvEHV_huCi_XAYpAVQFtgU.LocohguP2Fn7nUVl|
 |June 22|NgClass & NgFor|https://ironhack.zoom.us/rec/share/eGRC6SO4jQ_P8HOHOwudKbGRqly6qXwfODfTUM6dZs1L-UxD9SOqRSnq9sqDSsy0.KQyAm9xF847Sr_kL|
+|June 23|Nested Components and API Requests|https://ironhack.zoom.us/rec/share/TkR_oo5mbf-Sfj8LVQ5ujtrIvC6Xu4rDjsEf55i04EhS8NWpZjqnC-BsJTurt-a9.xStWFY8px3Y9SRtL|
+||||
