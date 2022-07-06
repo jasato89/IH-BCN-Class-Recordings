@@ -21,3 +21,8 @@
 |June 22|NgClass & NgFor|https://ironhack.zoom.us/rec/share/eGRC6SO4jQ_P8HOHOwudKbGRqly6qXwfODfTUM6dZs1L-UxD9SOqRSnq9sqDSsy0.KQyAm9xF847Sr_kL|
 |June 23|Nested Components and API Requests|https://ironhack.zoom.us/rec/share/TkR_oo5mbf-Sfj8LVQ5ujtrIvC6Xu4rDjsEf55i04EhS8NWpZjqnC-BsJTurt-a9.xStWFY8px3Y9SRtL|
 |June 28|Angular Routing|https://ironhack.zoom.us/rec/share/RSbYj_3TRyVtBhyVBGYVrF_M-_GsKFV-IPfOcwbaNdA7vs9IMABALNHvEKhtMU8t.sHaHUHJMYJmHeqH-|
+|June 29th||https://ironhack.zoom.us/rec/share/rpnoZ_905usPHzd3zTm40JK5IQ77TOcHTEGEiai7GQ7DMLUCoI-ny73HzTJy56e9.ba_RFWWt_gs9rW2B|
+|June 30th||https://ironhack.zoom.us/rec/share/7BgzbOeucn3kouO5xuM0fbn9N98nEEEvps7hmKcj65jyfxJqdnzQTNdpcTgiu1FY.cjqsKhhX3MGjYOqz|
+|July 1st||https://ironhack.zoom.us/rec/share/21UOfq8KGL3IDDPFnLjkGFGcUHJeJ4gt2UWRF7qadNfBYbhPLI6-a-L7wWv4y-01.abN-BdmP0Xy8KLwW|
+|July 4th||https://ironhack.zoom.us/rec/share/uAGDOYl9KIRJGF4S7CVqppsOZ20KIXf_IMt21RCjTt80e5aVduwPw6M9dF-zt60r.XAz_G_1QIf8EjfUJ|
+||||
